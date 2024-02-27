@@ -1,3 +1,3 @@
 export const Footer = () => {
-  return <footer>Footer</footer>;
+  return <footer>Copyright 2024 Sebastian Software GmbH</footer>;
 };
